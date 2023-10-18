@@ -58,6 +58,11 @@
   padding: 3rem;
 }
 
+.main-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 footer img {
   width: 3%;
 }
