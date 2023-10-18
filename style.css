@@ -77,6 +77,9 @@ footer img {
 }
 
 footer {
+  display: flex;
+  justify-content: space-evenly;
+
   width: 100%;
   padding: 1rem;
   background-color: #59d9a1;
